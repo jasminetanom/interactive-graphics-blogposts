@@ -17,7 +17,7 @@ I find the notion of emotional expression and flows through analyzing and transl
 
 More photos of the art piece:
 
-[Urbain DRC and INVIVIA](images/mood-ring-2.jpg)
-[Urbain DRC and INVIVIA](images/mood-ring-3.jpg)
+![Urbain DRC and INVIVIA](images/mood-ring-2.jpg)
+![Urbain DRC and INVIVIA](images/mood-ring-3.jpg)
 
 [Here's a link to a video showing the art piece in action.](https://vimeo.com/68778348)
